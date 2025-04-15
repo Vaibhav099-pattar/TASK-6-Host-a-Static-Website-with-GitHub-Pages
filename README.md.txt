@@ -20,4 +20,4 @@ Enable GitHub Pages
     Branch: main
     Folder: / (root)
 4.Click Save.
-5.Get Your Live Website Link:
+5.Get Your Live Website Link: https://vaibhav099-pattar.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
